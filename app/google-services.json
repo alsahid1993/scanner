@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "656346799108",
+    "firebase_url": "https://scanner-1e7f4.firebaseio.com",
+    "project_id": "scanner-1e7f4",
+    "storage_bucket": "scanner-1e7f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656346799108:android:f8f13bf09bce5194",
+        "android_client_info": {
+          "package_name": "example.alsahidasimms.com.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656346799108-aqeg8t6tb6nqhirn2c1snbpdger0kg74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_u5v_9dbp87yfOWh9mL6HGjppsa8rUD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
